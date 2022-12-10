@@ -1,13 +1,29 @@
 # Cloud Technolgy For Business
 
 Table of Contents
+
+
 Introduction	2
+
+
 Background of the organization	2
+
+
 Current IT set-up of the organisation	2
+
+
 Recommendations	3
+
+
 The contrast between non-cloud and cloud solutions for every characteristic of the infrastructure	3
+
+
 Appropriate deployment type and service level for each characteristic and justification for it	3
+
+
 Conclusion	4
+
+
 References list	5
 
 
