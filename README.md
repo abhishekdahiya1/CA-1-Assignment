@@ -3,28 +3,28 @@
 Table of Contents
 
 
-Introduction	2
+Introduction	
 
 
-Background of the organization	2
+Background of the organization	
 
 
-Current IT set-up of the organisation	2
+Current IT set-up of the organisation	
 
 
-Recommendations	3
+Recommendations	
 
 
-The contrast between non-cloud and cloud solutions for every characteristic of the infrastructure	3
+The contrast between non-cloud and cloud solutions for every characteristic of the infrastructure	
 
 
-Appropriate deployment type and service level for each characteristic and justification for it	3
+Appropriate deployment type and service level for each characteristic and justification for it	
 
 
-Conclusion	4
+Conclusion	
 
 
-References list	5
+References list	
 
 
 
