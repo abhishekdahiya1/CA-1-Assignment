@@ -22,4 +22,10 @@ Babu, K.V. and Prasad, N.V., 2021. Entrepreneurship Journey of Sridhar Vembu of 
 
 Bello, S.A., Oyedele, L.O., Akinade, O.O., Bilal, M., Delgado, J.M.D., Akanbi, L.A., Ajayi, A.O. and Owolabi, H.A., 2021. Cloud computing in construction industry: Use cases, benefits and challenges. Automation in Construction, 122, p.103441.
 
+Muhammad, N.B. and Bazzi, M., 2022, March. Advances in Cloud Computing: Security Issues and Challenges in the Cloud. In 2022 5th International Conference on Information and Computer Technologies (ICICT) (pp. 110-116). IEEE.
+
+Zoho, 2022. It management suite for all your business needs, Zoho. Available at: https://www.zoho.com/it-management/ (Accessed: December 5, 2022). 
+
+Zoho, 2022. What is paas? understanding platform as a Service (paas): Free cloud-based paas software - zoho creator, Zoho. Available at: https://www.zoho.com/creator/paas/ (Accessed: December 5, 2022). 
+
 
