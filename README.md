@@ -1,4 +1,4 @@
-# Cloud Technolgy For BUsiness
+# Cloud Technolgy For Business
 
 Table of Contents
 Introduction	2
