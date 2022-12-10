@@ -18,9 +18,6 @@ Downtime is one of the main disadvantages of cloud computing in IT infrastructur
 # Conclusion
 The above study was related to the cloud strategy and its sample deployment in the IT infrastructre of a company, named Zoho. The first part of the study has elaborated the overview of this organization and then the current IT setup of this company. The last part of the study has recommended required cloud and non-cloud solutions to make up a better infrastructure in the IT premises of Zoho.
 # References
-Babu, K.V. and Prasad, N.V., 2021. Entrepreneurship Journey of Sridhar Vembu of Zoho: Taking Silicon Valley to the Village. IUP Journal of Business Strategy, 18(4), pp.44-61.
-Bello, S.A., Oyedele, L.O., Akinade, O.O., Bilal, M., Delgado, J.M.D., Akanbi, L.A., Ajayi, A.O. and Owolabi, H.A., 2021. Cloud computing in construction industry: Use cases, benefits and challenges. Automation in Construction, 122, p.103441.
-Muhammad, N.B. and Bazzi, M., 2022, March. Advances in Cloud Computing: Security Issues and Challenges in the Cloud. In 2022 5th International Conference on Information and Computer Technologies (ICICT) (pp. 110-116). IEEE.
-Zoho, 2022. It management suite for all your business needs, Zoho. Available at: https://www.zoho.com/it-management/ (Accessed: December 5, 2022). 
-Zoho, 2022. What is paas? understanding platform as a Service (paas): Free cloud-based paas software - zoho creator, Zoho. Available at: https://www.zoho.com/creator/paas/ (Accessed: December 5, 2022). 
+Babu, K.V. and Prasad, N.V., 2021. Entrepreneurship Journey of Sridhar Vembu of Zoho: Taking Silicon Valley to the Village. IUP Journal of Business Strategy, 18(4), pp.44
+
 
