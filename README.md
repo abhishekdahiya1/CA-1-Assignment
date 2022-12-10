@@ -1,4 +1,4 @@
-#### Cloud Technolgy For Business
+#### CLOUD TECHNOLOGY FOR BUSINESS
 
 
 Module Name - Cloud Technology For Business ( MBA)
